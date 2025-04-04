@@ -1,4 +1,4 @@
-# UI-UX & Design Thinking Project ⚡
+# UI-UX & Design Thinking Project 
 
 # Output :
 
