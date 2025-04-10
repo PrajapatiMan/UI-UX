@@ -5,7 +5,7 @@
 # Main Login Page ⬇️ :
 <img src="01.png"></img>
 # Profile Page ⬇️ :
-# Dark Mode 🌙 :-
+# Dark Mode 🌙
 <img src="02.png"></img>
-# Light Mode ☀️ :-
+# Light Mode ☀️
 <img src="03.png"></img>
