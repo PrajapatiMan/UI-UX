@@ -2,16 +2,14 @@
 
 # Output :
 
-# Main Login Page ⬇️ :
+# Desktop View 💻
 <img src="01.png"></img>
-# Profile Page ⬇️ :
-# Dark Mode 🌙
+
 <img src="02.png"></img>
-# Light Mode ☀️
 <img src="03.png"></img>
-# Mobile View 📱 ⬇️
-# LOGIN PAGE : 
+# Mobile View 📱 
+
 <img src="04.jpg"></img>
-# PROFILE IN 🌙/☀️ :
+
 <img src="05.jpg"></img>
 <img src="06.jpg"></img>
